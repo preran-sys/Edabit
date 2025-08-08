@@ -34,3 +34,5 @@ a.out
 .Trash/
 
 ../../.vscode/
+
+tests.cpp
