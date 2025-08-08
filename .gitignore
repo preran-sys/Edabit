@@ -1,0 +1,36 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build and temporary files
+*.o
+*.out
+*.log
+*.tmp
+*.class
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+*.bak
+
+
+# C++
+*.gch
+*.dSYM
+a.out
+
+# macOS
+.Trash/
+
+../../.vscode/
