@@ -24,8 +24,7 @@
 // //
 // // toNumberArray(["9.5", "8.8"]) ➞ [9.5, 8.8]
 // */
-// 
-// 
+//
 // --- Notes ---
 // 
 // Note that you can receive decimal string numbers as well.
